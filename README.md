@@ -30,13 +30,6 @@ The project uses transparent PowerShell scripts so you can review every change b
 **Latest Release • Windows 10 / 11 • 64-bit**
 
 </div>
-
-### Direct Links
-
-- 🚀 [Latest Release](https://github.com/YOUR-USERNAME/rust-fps-boost/releases/latest)
-- 📦 [Source Code](https://github.com/YOUR-USERNAME/rust-fps-boost)
-
-> 💡 For the safest installation, download the latest release directly from the official GitHub Releases page.
 ## How to Use
 
 - Download the project to your computer as a ZIP file.
