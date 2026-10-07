@@ -31,22 +31,6 @@ The project uses transparent PowerShell scripts so you can review every change b
 - Restart your computer after completing the optimization.
 - Launch Rust and test your FPS using the same graphics settings.
 
-### Clone
-
-```bash
-git clone https://github.com/YOUR-USERNAME/rust-fps-boost.git
-cd rust-fps-boost
-```
-
-### Run
-
-```powershell
-Set-ExecutionPolicy -Scope Process Bypass
-.\scripts\optimize-windows.ps1
-```
-
----
-
 ## Features
 
 - ⚡ **Performance-focused setup** — reduces unnecessary system overhead.
@@ -68,11 +52,6 @@ rust-fps-boost/
 │
 ├── assets/
 │
-├── scripts/
-│   ├── cleanup.ps1
-│   ├── optimize-windows.ps1
-│   └── restore.ps1
-│
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -91,32 +70,6 @@ For useful before/after results, keep the test conditions consistent.
 | Frametime | — | — |
 | RAM Usage | — | — |
 
-### Suggested benchmark
-
-```text
-CPU:
-GPU:
-RAM:
-Resolution:
-Rust graphics preset:
-GPU driver:
-
-BEFORE
-Average FPS:
-1% Low:
-Frametime:
-RAM:
-
-AFTER
-Average FPS:
-1% Low:
-Frametime:
-RAM:
-```
-
-Do not report invented or single-frame FPS numbers as guaranteed results.
-
----
 
 ## Recommended Rust Setup
 
