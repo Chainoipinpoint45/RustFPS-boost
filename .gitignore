@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.tmp
+
+# Local test results
+benchmarks/
+logs/
+
+# IDE
+.vscode/
+.idea/
