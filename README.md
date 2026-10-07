@@ -23,13 +23,14 @@ The project uses transparent PowerShell scripts so you can review every change b
 
 ## How to Use
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Review the PowerShell scripts before running them.
-4. Open **PowerShell as Administrator**.
-5. Run the optimization script.
-6. Restart Windows.
-7. Test Rust using the same graphics settings and the same type of gameplay scenario.
+- Download the project to your computer as a ZIP file.
+- Extract the project to a separate folder.
+- Make sure Windows 10 or Windows 11 is installed.
+- Open the project folder and review the included files.
+- Run PowerShell as Administrator.
+- Execute the optimization script from the `scripts` folder.
+- Restart your computer after completing the optimization.
+- Launch Rust and test your FPS using the same graphics settings.
 
 ### Clone
 
