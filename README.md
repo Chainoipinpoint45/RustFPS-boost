@@ -30,6 +30,7 @@ The project uses transparent PowerShell scripts so you can review every change b
 **Latest Release • Windows 10 / 11 • 64-bit**
 
 </div>
+
 ## How to Use
 
 - Download the project to your computer as a ZIP file.
