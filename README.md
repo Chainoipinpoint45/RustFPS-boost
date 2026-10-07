@@ -19,8 +19,6 @@
 
 The project uses transparent PowerShell scripts so you can review every change before applying it.
 
-> No guaranteed FPS number is promised. Results depend on your hardware, Rust settings, drivers, server, map and background applications.
-
 ---
 
 ## How to Use
