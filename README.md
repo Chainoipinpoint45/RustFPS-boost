@@ -27,8 +27,7 @@ The project uses transparent PowerShell scripts so you can review every change b
 - Extract the project to a separate folder.
 - Make sure Windows 10 or Windows 11 is installed.
 - Open the project folder and review the included files.
-- Run PowerShell as Administrator.
-- Execute the optimization script from the `scripts` folder.
+- Run RustMenu as Administrator.
 - Restart your computer after completing the optimization.
 - Launch Rust and test your FPS using the same graphics settings.
 
