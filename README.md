@@ -91,8 +91,6 @@ The optimization was tested in Rust using the same resolution and graphics setti
 
 💾 **Reduced background RAM usage**
 
-> Performance results are provided as an example benchmark. Actual FPS improvements may vary depending on your CPU, GPU, RAM, drivers, Rust settings and game environment.
-
 ## Recommended Rust Setup
 
 For a consistent benchmark:
@@ -103,20 +101,6 @@ For a consistent benchmark:
 - Disable software you are not using for recording or streaming.
 - Repeat the test several times.
 - Compare **average FPS** and **1% lows**, not only the highest number shown on screen.
-
----
-
-## Restore
-
-The included starter optimizer intentionally avoids aggressive permanent registry, boot or network changes.
-
-Run:
-
-```powershell
-.\scripts\restore.ps1
-```
-
-If you add additional tweaks to the project, document their original values and rollback method in this section.
 
 ---
 
